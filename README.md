@@ -35,7 +35,8 @@
       <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
    </p>
    <li>Design Applications:</li><p align="left">
-   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+   <a href="https://www.freecad.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/75/d3/27/75d327f004090e0d125a640f074b64dc.png" alt="FreeCad" width="40" height="40">
    <li>Web Design:</li>
    <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
