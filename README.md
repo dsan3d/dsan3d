@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Sanchez Fuertes</h1>
-<h3 align="center">A fullstack programer expert on .NET tecnology (C#, VBasic, Xamarin). I do printing orders and 3D design. I'm from Spain</h3>
+<h3 align="center">A fullstack programer expert on .NET tecnology (C#, VBasic, Xamarin). <br/>I do printing orders and 3D design. I'm from Spain</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsan3d" alt="dsan3d" /></a> </p>
 
