@@ -36,7 +36,8 @@
    </p>
    <li>Design Applications:</li><p align="left">
    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-   <a href="https://www.freecad.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/75/d3/27/75d327f004090e0d125a640f074b64dc.png" alt="FreeCad" width="40" height="40">
+   <a href="https://www.freecad.org/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/75/d3/27/75d327f004090e0d125a640f074b64dc.png" alt="FreeCad" width="40" height="40"></a>
+   <a href="https://apps.microsoft.com/store/detail/3d-builder/9WZDNCRFJ3T6?hl=en-us&gl=us" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/cf/92/6d/cf926db3355261409c1603d551311875.png" alt="3D Builder" width="40" height="40"></a>
    <li>Web Design:</li>
    <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
