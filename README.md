@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsan3d" alt="dsan3d" /></a> </p>
 <h3>Servicio de Impresión y Diseño 3D</h3>
-You can make me orders for 3D printing and 3D design by writing me a private message on my instagram or to the following email address: **dasan3d@yahoo.com**
+<p align="left">You can make me orders for 3D printing and 3D design by writing me a private message on my instagram.</p>
 <h3>Aplicaciones Publicadas:</h3>
 
 
