@@ -3,6 +3,12 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dsan3d" alt="dsan3d" /></a> </p>-->
 
+<h3>Apps into Public Repos en GitHub</h3>
+<p>This apps are in Spanish language. They are a list of apps made by me since 2000 to present.</p>
+<ul>
+   <li>MP3Reproductor: <a href="https://github.com/dsan3d/ReproductorMp3">Link to Github Repository</a></li>
+</ul>
+
 <h3>3D Printing and Design Service</h3>
 <p align="left">You can make me orders for 3D printing and 3D design by writing me a private message on my instagram.</p>
 <p align="left">You can buy my designs in the web following: 
