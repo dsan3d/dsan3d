@@ -27,7 +27,7 @@
    </li>   
 </ul>
 <h3>Others:</h3>
-- 🌱 I’m currently learning **Simfony, phyton**
+- 🌱 I’m currently learning **Simfony, Angular, phyton**
 
 - 📫 How to reach me **danielsanchezfuertes@gmail.com**
 
