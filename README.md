@@ -23,7 +23,7 @@
       <table border=0>
        <tr>
          <td><a href="https://www.microsoft.com/store/productId/9NDDK8TT48ZV" target="_blank">Link to Windows Store</a></td>
-         <td><a href="https://play.google.com/store/apps/details?id=com.DasafuSoft.DCCalculadora&gl=ES" target="_blank">Link to Google Play Store</a></td>        </tr></table>
+         <td><a href="https://play.google.com/store/apps/details?id=com.companyname.cccalculadora&gl=ES" target="_blank">Link to Google Play Store</a></td>        </tr></table>
    </li>   
 </ul>
 <h3>Others:</h3>
