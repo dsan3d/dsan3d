@@ -38,9 +38,11 @@
 <a href="https://instagram.com/desan3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="desan3d" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/desan3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="desan3d" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-<ul><li>Languages:</li>
+<table>
+   <tr>
+      <td>
+         <ul><li>Languages:</li>
 <p align="left"><a href="https://learn.microsoft.com/es-es/docs/"><img src="https://i.pinimg.com/originals/60/6e/55/606e55f536efeefee29bd07c59f32a44.png" height="32" width="40"></a>
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -74,6 +76,12 @@
       <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a>
    </p>
  </ul>
+      </td>
+      <td rowspan=3> <a href="https://app.daily.dev/desan3d"><img src="https://api.daily.dev/devcards/940f3255a59740abba1c1e843dd3fe5c.png?r=w97" width="400" alt="DANIEL SANCHEZ FUERTES's Dev Card"/></a>        </td>
+   </tr>
+</table>
+
+
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsan3d&show_icons=true&locale=en&layout=compact" alt="dsan3d" /></p>
 
 <!--
